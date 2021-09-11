@@ -1,2 +1,2 @@
-# MachineLearning
-Belajar MachineLearning dengan python
+#Deep Learning Pytorch
+Deep Learning Project 
